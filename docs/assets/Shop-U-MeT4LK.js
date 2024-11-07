@@ -1,1 +1,0 @@
-import{b as t,j as s}from"./index-BlSeBNmR.js";import{C as r}from"./index-DDw6XNiz.js";const e=()=>{const{shop:o}=t();return console.log(o.flat()),s.jsx(r,{products:o.flat(),children:s.jsx("h2",{children:"moi pokupki"})})};export{e as default};
