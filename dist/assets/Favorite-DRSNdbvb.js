@@ -1,0 +1,1 @@
+import{j as t,E as e}from"./index-BlSeBNmR.js";import{u as s,C as i}from"./index-DDw6XNiz.js";const m=()=>{const{favorites:r}=s();return t.jsx("main",{children:r.length>0?t.jsx(i,{products:r,children:t.jsx("h2",{children:"все закладки"})}):t.jsx(e,{title:"Закладок нет :(",text:"Вы ничего не добавляли в закладки",imgUrl:"img/emptyFavorite.png"})})};export{m as default};
